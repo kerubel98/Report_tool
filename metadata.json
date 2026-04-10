@@ -1,0 +1,5 @@
+{
+  "name": "Remix: PluginApp Desktop",
+  "description": "A plugin-supportive desktop-like application for Excel reporting and file management.",
+  "requestFramePermissions": []
+}
